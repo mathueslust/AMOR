@@ -84,6 +84,7 @@ body {
 }
 .conteiner > p {
     animation: love 3s ease-in-out both;
+    font-size: 17px;
     
 }
 @keyframes love {
