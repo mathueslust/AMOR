@@ -12,6 +12,12 @@ body {
  font-weight: 700;
  font-size: 1.5rem;
 }
+.conteiner{
+    background-color: #000000;
+    padding: 10px;
+    min-width: 320px;
+    max-width: 800px;
+}
 .conteiner > span {
     
     animation: glow 2.2s ease-in-out infinite;
@@ -85,6 +91,7 @@ body {
 .conteiner > p {
     animation: love 3s ease-in-out both;
     font-size: 17px;
+    padding-left: 60px;
     
 }
 @keyframes love {
